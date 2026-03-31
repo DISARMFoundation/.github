@@ -27,7 +27,7 @@ These repositories capture the DISARM 1.7 update, which added techniques most re
 
 | Repository | Purpose (short) | Framework focus |
 |-----------|-----------------|-----------------|
-| [`DISARMframeworks-17`](https://github.com/DISARMFoundation/DISARMframeworks-17) | Framework data for DISARM 1.7, including additional techniques for fact checkers. | 1.7 framework |
+| [`DISARMframeworks-17`](https://github.com/DISARMFoundation/DISARMframeworks-17) | Framework data for DISARM 1.7, including additional techniques for fact checkers. Access the framework and choose "Create New Layer" [here](https://disarmfoundation.github.io/disarm-navigator-17/) | 1.7 framework |
 | [`disarm-stix-17`](https://github.com/DISARMFoundation/disarm-stix-17) | STIX 2 bundle and related code for the DISARM 1.7 framework and fact‑checking use cases. | 1.7 STIX |
 | [`disarm-navigator-17`](https://github.com/DISARMFoundation/disarm-navigator-17) | Navigator app configured for the DISARM 1.7 red framework and fact‑checker update. | 1.7 navigator |
 
@@ -40,7 +40,7 @@ These repositories implement and support prototypes of the DISARM 2.0 Observatio
 
 | Repository | Purpose (short) | Framework focus |
 |-----------|-----------------|-----------------|
-| [`DISARMframeworks-20-observable`](https://github.com/DISARMFoundation/DISARMframeworks-20-observable) | Master copies of the DISARM 2.0 Observations framework, plus generated files for exploring the data. Access the framework a choose "Create New Layer" [here](https://disarmfoundation.github.io/disarm-navigator-20-observable/) | 2.0 Observations |
+| [`DISARMframeworks-20-observable`](https://github.com/DISARMFoundation/DISARMframeworks-20-observable) | Master copies of the DISARM 2.0 Observations framework, plus generated files for exploring the data. Access the framework and choose "Create New Layer" [here](https://disarmfoundation.github.io/disarm-navigator-20-observable/) | 2.0 Observations |
 | [`disarm-stix-20-observable`](https://github.com/DISARMFoundation/disarm-stix-20-observable) | STIX 2 bundle and related code for the DISARM 2.0 Observations framework. | 2.0 Observations |
 | [`disarm-navigator-20-observable`](https://github.com/DISARMFoundation/disarm-navigator-20-observable) | Navigator web app for navigating and annotating the DISARM 2.0 Observations matrix. | 2.0 Observations |
 | [`disarm-navigator-mv`](https://github.com/DISARMFoundation/disarm-navigator-mv) | Navigator variant for supporting multiple DISARM framework versions (multi‑version navigator). | Multi‑version 1.x/2.x |
