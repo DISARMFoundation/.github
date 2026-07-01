@@ -36,11 +36,12 @@ These repositories capture the DISARM 1.7 update, which added techniques most re
 
 ## Next Generation (version 2.0)
 
-These repositories implement and support prototypes of the DISARM 2.0 Observations framework and navigator support for multiple versions of DISARM including 1.x and 2.x.
+These repositories implement and support prototypes of the DISARM 2.0 Observations and DISARM 2.0 Assessment frameworks and navigator support for multiple versions of DISARM including 1.x and 2.x.
 
 | Repository | Purpose (short) | Framework focus |
 |-----------|-----------------|-----------------|
 | [`DISARMframeworks-20-observable`](https://github.com/DISARMFoundation/DISARMframeworks-20-observable) | Master copies of the DISARM 2.0 Observations framework, plus generated files for exploring the data. Access the framework and choose "Create New Layer" [here](https://disarmfoundation.github.io/disarm-navigator-20-observable/) | 2.0 Observations |
+| [`DISARMframeworks-20-assessments`](https://github.com/DISARMFoundation/DISARMframeworks-20-assessments) | Master copies of the DISARM 2.0 Assessments framework, plus generated files for exploring the data. | 2.0 Assessments |
 | [`disarm-stix-20-observable`](https://github.com/DISARMFoundation/disarm-stix-20-observable) | STIX 2 bundle and related code for the DISARM 2.0 Observations framework. | 2.0 Observations |
 | [`disarm-navigator-20-observable`](https://github.com/DISARMFoundation/disarm-navigator-20-observable) | Navigator web app for navigating and annotating the DISARM 2.0 Observations matrix. | 2.0 Observations |
 | [`disarm-navigator-mv`](https://github.com/DISARMFoundation/disarm-navigator-mv) | Navigator variant for supporting multiple DISARM framework versions (multi‑version navigator). | Multi‑version 1.x/2.x |
