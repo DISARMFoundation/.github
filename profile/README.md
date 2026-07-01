@@ -23,7 +23,7 @@ These repositories support the original DISARM 1.x framework releases up to, and
 
 ## Fact Checking (version 1.7)
 
-These repositories capture the DISARM 1.7 update, which added techniques most relevant to fact checkers.
+These repositories capture the DISARM 1.7 update, which added techniques most relevant to fact checkers. DISARM 1.7 IS STILL UNDER DEVELOPMENT. PLEASE BEAR WTH US.
 
 | Repository | Purpose (short) | Framework focus |
 |-----------|-----------------|-----------------|
